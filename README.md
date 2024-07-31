@@ -1,10 +1,10 @@
-Curso de Python: Crie a sua Primeira Aplicação
+#Curso de Python: Crie a sua Primeira Aplicação
 
 Neste curso, aprendi sobre a programação Python, começando com noções fundamentais e avançando para conceitos mais complexos que moldam o desenvolvimento de software. Iniciei com a função print(), explorando suas múltiplas facetas, e aprendi a capturar informações do usuário com a função input(). Construí meu primeiro programa Python, saudando o mundo com um "Hello World" e criando um menu dinâmico para cadastro de restaurantes.
 
 Desvendei as condicionais if-else e a importância das funções para uma organização eficiente do código. Explorei a importação de módulos e o uso do casting para fortalecer a segurança e eficácia do meu código. Utilizei listas para organizar dados de forma dinâmica e validei entradas do usuário com try-except. Iterei sequências de dados com loops for e estruturei informações com dicionários. Simplifiquei expressões condicionais com operadores ternários e construí um projeto completo de cadastro de restaurantes. Por fim, aprendi sobre docstrings e a importância da documentação no desenvolvimento colaborativo de projetos.
 
-Curso de Python: Aplicando a Orientação a Objetos
+#Curso de Python: Aplicando a Orientação a Objetos
 
 Neste curso, explorei os fundamentos cruciais da Programação Orientada a Objetos (OO), uma abordagem poderosa para organizar e estruturar códigos. Mergulhei no conceito de classes, compreendendo sua importância fundamental no desenvolvimento de software. Construí minha primeira classe, o Restaurante, definindo atributos de instância, como nome, categoria e o estado ativo, que inicia como False.
 
@@ -14,7 +14,7 @@ Além disso, apliquei os conceitos aprendidos, importando a classe Restaurante n
 
 Também explorei a importância das docstrings, que são comentários incorporados diretamente no código-fonte para documentar funções, métodos, módulos ou classes. Isso facilita a compreensão e colaboração no código, especialmente em projetos compartilhados com outros desenvolvedores.
 
-Curso de Python: Avance na Orientação a Objetos e Consuma API
+#Curso de Python: Avance na Orientação a Objetos e Consuma API
 
 Neste curso, explorei diversos tópicos essenciais na programação com Python, desde a criação de classes e herança até a compreensão de ambientes virtuais e o uso do FastAPI para criar APIs. Consolidei meus conhecimentos em Programação Orientada a Objetos (POO), entendendo o conceito de herança, métodos especiais e a utilização do super() para acessar métodos da classe pai/mãe.
 
