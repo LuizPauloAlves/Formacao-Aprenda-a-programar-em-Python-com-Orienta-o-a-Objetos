@@ -1,0 +1,29 @@
+Curso de Python: Crie a sua Primeira Aplicação
+
+Neste curso, aprendi sobre a programação Python, começando com noções fundamentais e avançando para conceitos mais complexos que moldam o desenvolvimento de software. Iniciei com a função print(), explorando suas múltiplas facetas, e aprendi a capturar informações do usuário com a função input(). Construí meu primeiro programa Python, saudando o mundo com um "Hello World" e criando um menu dinâmico para cadastro de restaurantes.
+
+Desvendei as condicionais if-else e a importância das funções para uma organização eficiente do código. Explorei a importação de módulos e o uso do casting para fortalecer a segurança e eficácia do meu código. Utilizei listas para organizar dados de forma dinâmica e validei entradas do usuário com try-except. Iterei sequências de dados com loops for e estruturei informações com dicionários. Simplifiquei expressões condicionais com operadores ternários e construí um projeto completo de cadastro de restaurantes. Por fim, aprendi sobre docstrings e a importância da documentação no desenvolvimento colaborativo de projetos.
+
+Curso de Python: Aplicando a Orientação a Objetos
+
+Neste curso, explorei os fundamentos cruciais da Programação Orientada a Objetos (OO), uma abordagem poderosa para organizar e estruturar códigos. Mergulhei no conceito de classes, compreendendo sua importância fundamental no desenvolvimento de software. Construí minha primeira classe, o Restaurante, definindo atributos de instância, como nome, categoria e o estado ativo, que inicia como False.
+
+Aprendi a utilizar métodos especiais da linguagem Python, como o construtor init, e pratiquei a abstração na escrita de atributos de maneira pythonica. Aprofundei meu conhecimento ao explorar a criação de métodos de classe, destacando sua utilidade em operações que envolvem a classe como um todo.
+
+Além disso, apliquei os conceitos aprendidos, importando a classe Restaurante no arquivo principal (main.py). Reforcei meu entendimento de OO ao criar mais uma classe e, de maneira avançada, integrei a classe Avaliação ao Restaurante. Agora, posso gerenciar uma lista de objetos de avaliação associados a cada restaurante e listar essas avaliações conforme necessário.
+
+Também explorei a importância das docstrings, que são comentários incorporados diretamente no código-fonte para documentar funções, métodos, módulos ou classes. Isso facilita a compreensão e colaboração no código, especialmente em projetos compartilhados com outros desenvolvedores.
+
+Curso de Python: Avance na Orientação a Objetos e Consuma API
+
+Neste curso, explorei diversos tópicos essenciais na programação com Python, desde a criação de classes e herança até a compreensão de ambientes virtuais e o uso do FastAPI para criar APIs. Consolidei meus conhecimentos em Programação Orientada a Objetos (POO), entendendo o conceito de herança, métodos especiais e a utilização do super() para acessar métodos da classe pai/mãe.
+
+Aprendi a criar a classe principal chamada ItemCardapio com um construtor que aceita os parâmetros nome e preço. Implementamos duas classes chamadas Bebida e Prato que herdam atributos e métodos da classe ItemCardapio, utilizando super() no construtor para aproveitar a estrutura da classe pai. Criei objetos das classes Prato e Bebida, demonstrando como a herança pode ser utilizada para compartilhar funcionalidades entre diferentes tipos de itens de cardápio.
+
+Desenvolvi um método para adicionar itens ao cardápio e refatorei a função para receber qualquer objeto que seja uma instância de ItemCardapio. Utilizei o conceito de property para exibir o cardápio de cada restaurante, proporcionando uma visão clara dos itens disponíveis. Desenvolvi o método abstrato chamado aplicar_desconto que permite aplicar descontos de forma flexível a diferentes tipos de itens no cardápio, aplicando um valor de desconto tanto em bebidas quanto em pratos, destacando o polimorfismo na prática, onde diferentes classes respondem ao mesmo método de maneiras distintas.
+
+Explorei o conceito fundamental de ambientes virtualizados no desenvolvimento de software, compreendendo sua importância para isolar e gerenciar dependências de projetos. Aprendi a criar e ativar um ambiente virtual em minha máquina utilizando a ferramenta venv, uma prática essencial para garantir a consistência do ambiente de desenvolvimento. Também aprendi a criar e utilizar arquivos requirements.txt para documentar e compartilhar as dependências do projeto, garantindo uniformidade no processo de implementação.
+
+Explorei o conceito de API (Interface de Programação de Aplicações) e compreendi seu funcionamento como uma ponte entre diferentes sistemas, permitindo a comunicação e o compartilhamento de dados. Utilizei o módulo requests em Python para realizar requisições a APIs, obtendo dados de serviços externos e integrando-os em meus programas. Pratiquei o processo de fazer requisições a uma API de restaurantes, utilizando o módulo requests para receber informações sobre cada estabelecimento em formato JSON. Aprendi a salvar os dados recebidos da API em arquivos JSON e a criar meus próprios arquivos JSON.
+
+Por fim, instalei a biblioteca FastAPI e configurei um ambiente para criar uma API utilizando Python. Criei um endpoint utilizando o FastAPI para disponibilizar recursos relacionados aos restaurantes, permitindo que usuários acessem informações específicas sobre esses estabelecimentos. Adicionei um endpoint que pode receber um parâmetro de consulta (query parameter) para filtrar restaurantes com base em seus nomes, proporcionando uma maneira flexível de buscar informações específicas. Utilizei as ferramentas de documentação docs e redoc do FastAPI para gerar automaticamente documentação interativa para a API, facilitando a compreensão dos endpoints disponíveis e permitindo testes diretos na interface de documentação.
