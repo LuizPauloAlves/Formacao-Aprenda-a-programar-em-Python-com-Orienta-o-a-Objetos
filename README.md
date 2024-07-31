@@ -6,11 +6,11 @@ Aprendi as condicionais if-else e a importância das funções para uma organiza
 
 # [Curso de Python: Aplicando a Orientação a Objetos](https://github.com/LuizPauloAlves/Formacao-Aprenda-a-programar-em-Python-com-Orienta-o-a-Objetos/tree/main/Python%20-%20aplicando%20a%20Orienta%C3%A7%C3%A3o%20a%20Objetos)
 
-Neste curso, explorei os fundamentos cruciais da Programação Orientada a Objetos (OO), uma abordagem poderosa para organizar e estruturar códigos. Mergulhei no conceito de classes, compreendendo sua importância fundamental no desenvolvimento de software. Construí minha primeira classe, o Restaurante, definindo atributos de instância, como nome, categoria e o estado ativo, que inicia como False.
+Neste curso, explorei os fundamentos cruciais da Programação Orientada a Objetos (POO), uma abordagem poderosa para organizar e estruturar códigos. Mergulhei no conceito de classes, compreendendo sua importância fundamental no desenvolvimento de software. Construí minha primeira classe, o Restaurante, definindo atributos de instância, como nome, categoria e o estado ativo, que inicia como False.
 
 Aprendi a utilizar métodos especiais da linguagem Python, como o construtor init, e pratiquei a abstração na escrita de atributos de maneira pythonica. Aprofundei meu conhecimento ao explorar a criação de métodos de classe, destacando sua utilidade em operações que envolvem a classe como um todo.
 
-Além disso, apliquei os conceitos aprendidos, importando a classe Restaurante no arquivo principal (main.py). Reforcei meu entendimento de OO ao criar mais uma classe e, de maneira avançada, integrei a classe Avaliação ao Restaurante. Agora, posso gerenciar uma lista de objetos de avaliação associados a cada restaurante e listar essas avaliações conforme necessário.
+Além disso, apliquei os conceitos aprendidos, importando a classe Restaurante no arquivo principal (main.py). Reforcei meu entendimento de POO ao criar mais uma classe e, de maneira avançada, integrei a classe Avaliação ao Restaurante. Agora, posso gerenciar uma lista de objetos de avaliação associados a cada restaurante e listar essas avaliações conforme necessário.
 
 Também explorei a importância das docstrings, que são comentários incorporados diretamente no código-fonte para documentar funções, métodos, módulos ou classes. Isso facilita a compreensão e colaboração no código, especialmente em projetos compartilhados com outros desenvolvedores.
 
